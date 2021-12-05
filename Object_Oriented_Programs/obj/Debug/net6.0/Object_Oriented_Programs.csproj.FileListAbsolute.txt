@@ -1,0 +1,15 @@
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\Object_Oriented_Programs.exe
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\Object_Oriented_Programs.deps.json
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\Object_Oriented_Programs.runtimeconfig.json
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\Object_Oriented_Programs.dll
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\ref\Object_Oriented_Programs.dll
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\bin\Debug\net6.0\Object_Oriented_Programs.pdb
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.csproj.AssemblyReference.cache
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.AssemblyInfoInputs.cache
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.AssemblyInfo.cs
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.csproj.CoreCompileInputs.cache
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.dll
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\ref\Object_Oriented_Programs.dll
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.pdb
+D:\bridzlabz\Opps\Object_Oriented_Programs\Object_Oriented_Programs\obj\Debug\net6.0\Object_Oriented_Programs.genruntimeconfig.cache
